@@ -28,5 +28,94 @@
             "name": "<:c:1081522950961909860> **aespa KARINA** Next Level",
             "image": "https://media.discordapp.net/attachments/1081499031949295636/1107556686413189152/theme_template_20230515124717.png?width=305&height=429"
         }
-    ]
+    ],
+"AENL_GS_R": [
+        {
+            "name": "<:r:1081522963628699669> **aespa GISELLE** Next Level",
+            "image": "https://media.discordapp.net/attachments/1081499031949295636/1107556551268519996/theme_template_20230515124755.png"
+        }
+    ],
+    "AENL_GS_S": [
+        {
+            "name": "<:s:1081522960067727360> **aespa GISELLE** Next Level",
+            "image": "https://media.discordapp.net/attachments/1081499031949295636/1107556684446044170/theme_template_20230515124724.png?width=305&height=429"
+        }
+    ],
+    "AENL_GS_A": [
+        {
+            "name": "<:a:1081522956234133527> **aespa GISELLE** Next Level",
+            "image": "https://media.discordapp.net/attachments/1081499031949295636/1107556550723240007/theme_template_20230515124758.png"
+        }
+    ],
+    "AENL_GS_B": [
+        {
+            "name": "<:b:1081522954279591956> **aespa GISELLE** Next Level",
+            "image": "https://media.discordapp.net/attachments/1081499031949295636/1107556550492573716/theme_template_20230515124800.png"
+        }
+    ],
+    "AENL_GS_C": [
+        {
+            "name": "<:c:1081522950961909860> **aespa GISELLE** Next Level",
+            "image": "https://media.discordapp.net/attachments/1081499031949295636/1107556550161207337/theme_template_20230515124810.png"
+        }
+    ],"AENL_WT_R": [
+        {
+            "name": "<:r:1081522963628699669> **aespa WINTER** Next Level",
+            "image": "https://media.discordapp.net/attachments/1081499031949295636/1107556548831629363/theme_template_20230515124847.png"
+        }
+    ],
+    "AENL_WT_S": [
+        {
+            "name": "<:s:1081522960067727360> **aespa WINTER** Next Level",
+            "image": "https://media.discordapp.net/attachments/1081499031949295636/1107556549091655690/theme_template_20230515124844.png"
+        }
+    ],
+    "AENL_WT_A": [
+        {
+            "name": "<:a:1081522956234133527> **aespa WINTER** Next Level",
+            "image": "https://media.discordapp.net/attachments/1081499031949295636/1107556549402038272/theme_template_20230515124830.png"
+        }
+    ],
+    "AENL_WT_B": [
+        {
+            "name": "<:b:1081522954279591956> **aespa WINTER** Next Level",
+            "image": "https://media.discordapp.net/attachments/1081499031949295636/1107556549670490182/theme_template_20230515124828.png"
+        }
+    ],
+    "AENL_WT_C": [
+        {
+            "name": "<:c:1081522950961909860> **aespa WINTER** Next Level",
+            "image": "https://media.discordapp.net/attachments/1081499031949295636/1107556686413189152/theme_template_20230515124717.png?width=305&height=429"
+        }
+    ],
+ "AENL_NN_R": [
+        {
+            "name": "<:r:1081522963628699669> **aespa NINGNING** Next Level",
+            "image": "https://media.discordapp.net/attachments/1081499031949295636/1107556686140555284/theme_template_20230514225227.png"
+        }
+    ],
+    "AENL_NN_S": [
+        {
+            "name": "<:s:1081522960067727360> **aespa NINGNING** Next Level",
+            "image": "https://media.discordapp.net/attachments/1081499031949295636/1107556685666603030/theme_template_20230515124632.png"
+        }
+    ],
+    "AENL_NN_A": [
+        {
+            "name": "<:a:1081522956234133527> **aespa NINGNING** Next Level",
+            "image": "https://media.discordapp.net/attachments/1081499031949295636/1107556685897273374/theme_template_20230515124635.png"
+        }
+    ],
+    "AENL_NN_B": [
+        {
+            "name": "<:b:1081522954279591956> **aespa NINGNING** Next Level",
+            "image": "https://media.discordapp.net/attachments/1081499031949295636/1107556685192630304/theme_template_20230515124638.png"
+        }
+    ],
+    "AENL_NN_C": [
+        {
+            "name": "<:c:1081522950961909860> **aespa NINGNING** Next Level",
+            "image": "https://media.discordapp.net/attachments/1081499031949295636/1107556685444300840/theme_template_20230515124641.png"
+        }
+    ],
 }
